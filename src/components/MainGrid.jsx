@@ -63,9 +63,10 @@ export  function MainGrid() {
             
              <Typography variant="h3" size={{ xs: 6, md: 12}}> Stack </Typography>
               
-            
-       
-
+            {/* aqui hice un cambioooooo*/}
+        {/* aqui hice un cambioooooo*/}
+ {/* aqui hice un cambioooooo*/}
+  {/* aqui hice un cambioooooo*/}
 
         </Box>
         <Box
@@ -82,7 +83,8 @@ export  function MainGrid() {
       }}
     >
       <Typography variant="h2" color="white">
-        Fondo de Gradiente en Movimiento
+        Fondo de Gradiente en Movimiento!!!!SADAd 
+        
       </Typography>
     </Box>
 
