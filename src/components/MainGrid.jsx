@@ -70,16 +70,13 @@ export  function MainGrid() {
         </Box>
         <Box
       sx={{
-        backgroundImage: `url('/src/assets/Background.jpg')`,
-       
         width: '100vw',
         height: '100vh',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
         overflow: 'hidden',
-        background: 'linear-gradient(270deg, rgba(255, 126, 95, 0.8), rgba(254, 180, 123, 0.8), rgba(134, 168, 231, 0.8), rgba(127, 127, 213, 0.8))',
-
+        background: 'linear-gradient(270deg, #ff7e5f, #feb47b, #86a8e7, #7f7fd5)',
         backgroundSize: '600% 600%',
         animation: 'gradientAnimation 10s ease infinite'
       }}
